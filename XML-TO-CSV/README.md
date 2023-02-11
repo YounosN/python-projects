@@ -6,7 +6,7 @@ This Python script converts an XML file to a CSV file. The script takes the name
 
 To use the script, run the following command in the terminal:
 
-`python xml_to_csv.py input.xml output.csv`
+`python XmlToCsv.py input.xml output.csv`
 
 Where **input.xml** is the path to the input XML file, and **output.csv** is the path to the output CSV file.
 
